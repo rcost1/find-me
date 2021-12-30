@@ -320,19 +320,19 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
          <div class="blog-post hentry index-post">
           <div class="post-image-wrap">
            <a class="post-image-link" href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-            <img alt="Watch Apple’s ‘Unleashed’ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w680"/>
+            <img alt="Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w680"/>
            </a>
           </div>
           <div class="post-info">
            <h2 class="post-title">
             <a href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-             Watch Apple’s ‘Unleashed’ event live right here
+             Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here
             </a>
            </h2>
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            Apple is set to announce new hardware today. The company is holding a (virtual) keynote at  10 AM PT (1 PM in New York, 6 …
+            Apple is set to announce new hardware today. The company is holding a (virtual) keynote atï¿½ 10 AM PT (1 PM in New York, 6 ï¿½
            </p>
           </div>
          </div>
@@ -351,7 +351,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            To access the data of unsuspecting users, the Chinese Communist Party (CCP) could take advantage of a universal authentica…
+            To access the data of unsuspecting users, the Chinese Communist Party (CCP) could take advantage of a universal authenticaï¿½
            </p>
           </div>
          </div>
@@ -373,7 +373,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            Sony’s upcoming  Sinister Six  movie should take some inspiration from Spider-Man: No Way Home  and introduce a new versi…
+            Sonyï¿½s upcomingï¿½ Sinister Six  movie should take some inspiration from Spider-Man: No Way Home  and introduce a new versiï¿½
            </p>
           </div>
          </div>
@@ -395,7 +395,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            Warning: The following contains SPOILERS for Supergirl  season 6, episode 15, "Hope For Tomorrow."  The Supergi…
+            Warning: The following contains SPOILERS for Supergirl  season 6, episode 15, "Hope For Tomorrow."  The Supergiï¿½
            </p>
           </div>
          </div>
@@ -417,7 +417,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            The latest The Flash  trailer suggests that Michael Keaton's Batman has a bigger role in the film than many initially…
+            The latest The Flash  trailer suggests that Michael Keaton's Batman has a bigger role in the film than many initiallyï¿½
            </p>
           </div>
          </div>
@@ -439,7 +439,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            Robert Pattinson’s Batman takes multiple bullets to the chest in the latest trailer for The Batman , indicating how bulle…
+            Robert Pattinsonï¿½s Batman takes multiple bullets to the chest in the latest trailer for The Batman , indicating how bulleï¿½
            </p>
           </div>
          </div>
@@ -461,7 +461,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
            <div class="post-meta">
            </div>
            <p class="post-snippet">
-            Katey Sagal  played one of the most important characters in Sons of Anarchy , but what has she done since the show came t…
+            Katey Sagal  played one of the most important characters in Sons of Anarchy , but what has she done since the show came tï¿½
            </p>
           </div>
          </div>
@@ -654,12 +654,12 @@ $(window).bind("load",function(){$('.Label a,.postags a,.m-rec h2 a,.breadcrumbs
          <div class="post">
           <div class="post-content">
            <a class="post-image-link" href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-            <img alt="Watch Apple’s ‘Unleashed’ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w100"/>
+            <img alt="Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w100"/>
            </a>
            <div class="post-info">
             <h2 class="post-title">
              <a href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-              Watch Apple’s ‘Unleashed’ event live right here
+              Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here
              </a>
             </h2>
             <div class="post-meta">
@@ -775,12 +775,12 @@ $(window).bind("load",function(){$('.Label a,.postags a,.m-rec h2 a,.breadcrumbs
          <div class="post">
           <div class="post-content">
            <a class="post-image-link" href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-            <img alt="Watch Apple’s ‘Unleashed’ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w100"/>
+            <img alt="Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here" class="post-thumb" src="https://blogger.googleusercontent.com/img/a/AVvXsEjS-w1clUYu9ViLllYkQ78XEK8McbryI5iCuI33EkH4XfgL6SYRSNKZwLYZxDykSK7G2v0d2K3ocoQN1JQRlvDD7oiZGgB8jecHMa1abPt1Z0SsRylLy_mGdniYM9Rn_mQChfYlEiZTcf03wyC5YQtREP2v3bQE1HeGZT0_H87qzHp758RPWoa89Zj8sQ=w100"/>
            </a>
            <div class="post-info">
             <h2 class="post-title">
              <a href="https://techncruncher.blogspot.com/2021/10/watch-apples-unleashed-event-live-right.html">
-              Watch Apple’s ‘Unleashed’ event live right here
+              Watch Appleï¿½s ï¿½Unleashedï¿½ event live right here
              </a>
             </h2>
             <div class="post-meta">
