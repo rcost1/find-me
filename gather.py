@@ -36,4 +36,4 @@ def clean(listofLinks):
 
 # using the json library it outputs nicely for viewing
 def give(dictionary):
-    print(json.dumps(dictionary, indent=1))
+    return json.dumps(dictionary, indent=1)

@@ -8,6 +8,10 @@
 * 4 Save to a powerBI Dashboard
 * 5 Make a UI
 
+Right now this code takes all headlines from the front page of https://techncruncher.blogspot.com/ and organizes the links and the headline and stores them into a txt file or a MySQL Database.
+
+Next, I will write test cases and begin ironing out use cases and handling inputs that shouldnt be entered.
+
 ## Uses / Future
 
 ## Getting Started
