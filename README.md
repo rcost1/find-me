@@ -10,6 +10,8 @@
 
 Right now this code takes all headlines from the front page of https://techncruncher.blogspot.com/ and organizes the links and the headline and stores them into a txt file or a MySQL Database.
 
+Immediately next time i will add duplication protection in the DB and verify before inserting.
+
 Next, I will write test cases and begin ironing out use cases and handling inputs that shouldnt be entered.
 
 ## Uses / Future

@@ -1,6 +1,7 @@
 from gather import *
 import json
 import requests
+import getpass
 import mysql.connector
 from bs4 import BeautifulSoup
 def userLink():
@@ -39,7 +40,7 @@ def write():
         text_file.write(results)
 
 def store():
-    passW = input("password")
+    passW = getpass.getpass('Password:')
 
     mydb = mysql.connector.connect(
     host="localhost",
